@@ -1,0 +1,49 @@
+ @import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+ @font-face {
+   font-family: 'NovemberSlabPro';
+   src: url(../fonts/NovemberSlabPro-Reg.woff2) format("woff2"), url("../fonts/NovemberSlabPro-Reg.woff") format("woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+ }
+
+ @font-face {
+   font-family: 'NovemberSlabPro';
+   src: url(../fonts/NovemberSlabPro-RegIta.woff2) format("woff2"), url("../fonts/NovemberSlabPro-RegIta.woff") format("woff");
+   font-weight: 400;
+   font-style: italic;
+   font-display: swap;
+ }
+
+ @font-face {
+   font-family: 'NovemberSlabPro';
+   src: url(../fonts/NovemberSlabPro-Bld.woff2) format("woff2"), url("../fonts/NovemberSlabPro-Bld.woff") format("woff");
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+ }
+
+ @font-face {
+   font-family: 'NovemberSlabPro';
+   src: url(../fonts/NovemberSlabPro-BldIta.woff2) format("woff2"), url("../fonts/NovemberSlabPro-BldIta.woff") format("woff");
+   font-weight: 700;
+   font-style: italic;
+   font-display: swap;
+ }
+
+ @font-face {
+   font-family: 'NovemberSlabPro';
+   src: url(../fonts/NovemberSlabPro-Blk.woff2) format("woff2"), url("../fonts/NovemberSlabPro-Blk.woff") format("woff");
+   font-weight: 900;
+   font-style: normal;
+   font-display: swap;
+ }
+
+ @font-face {
+   font-family: 'NovemberSlabPro';
+   src: url(../fonts/NovemberSlabPro-BlkIta.woff2) format("woff2"), url("../fonts/NovemberSlabPro-BlkIta.woff") format("woff");
+   font-weight: 900;
+   font-style: italic;
+   font-display: swap;
+ }
