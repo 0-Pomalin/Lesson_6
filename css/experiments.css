@@ -1,1 +1,51 @@
 @import url(./common.css);
+
+.experiments {
+  margin-top: 25px;
+  font-size: 22px;
+}
+
+.block {
+  background-color: #77608d;
+}
+
+.inline {
+  background-color: #7A956B;
+}
+
+/* overflow */
+
+/* .block {
+  margin-bottom: 100px;
+  padding: 5px;
+  max-height: 50px;
+  overflow: visible;
+  overflow: hidden;
+}
+
+.block-2 {
+  margin-bottom: 50px;
+  padding: 5px;
+  max-height: 125px;
+  overflow: scroll;
+  overflow: auto;
+} */
+
+/* display */
+
+/* 
+.block {
+  padding: 5px;
+  width: 80px;
+  display: inline-block;
+}
+
+.inline {
+  width: 100px;
+  display: inline-block;
+}
+
+.image {
+  width: 200px;
+  display: block;
+} */
