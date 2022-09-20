@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@import url(./reset.css);
+
+body {
+  background-color: #ffffff;
+  color: #1E212C;
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  background: #FFFFFF;
+  width: 1920px;
+  padding-left: 345px;
+  padding-right: 345px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section {
+  width: 810px;
+  margin-bottom: 24px;
+}
+
+.logo-header {
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.logo-ffl {
+  color: #2196f3;
+}
+
+.logo-lesson6 {
+  color: #212121;
+}
+
+.main-nav {
+  margin-top: 50px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.site-nav,
+.site-nav .item {
+  display: inline-block;
+}
+
+.site-nav .item {
+  margin-left: 35px;
+}
+
+.site-nav .link.current {
+  color: #2196f3;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
